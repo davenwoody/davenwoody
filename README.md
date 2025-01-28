@@ -37,7 +37,7 @@
 
 <hr/>
 
-#### My Language Favorite:
+#### My Favorite Language:
   <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
       alt="python" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
