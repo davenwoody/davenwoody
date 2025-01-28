@@ -18,10 +18,7 @@
 
 - ⚡ Fun fact :- Anime and Music🎵 are the reasons to live.
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#### Connect with me:
   <a href="https://discord.com/users/1267021616429268994" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg"
       alt="gs1j" height="30" width="40" /></a>
@@ -31,13 +28,11 @@
   <a href="https://youtube.com/@davenwoodys" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/youtube.svg"
       alt="davenwoodys" height="30" width="40" /></a>
-      
-   </p>
-      
-<br>
+      <a href="https://github.com/davenwoody" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/github.svg"
+      alt="davenwoody" height="30" width="40" /></a>
 
-<h3 align="left">My Language Favorite:</h3>
-<p align="left">
+#### My Language Favorite:
   <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
       alt="python" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
@@ -53,4 +48,14 @@
       alt="nodejs" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg"
       alt="lua" height="40" width="40" /></a>
-   </p>
+   
+ #### GitHub Stats Card
+
+<a href="https://github.com/davenwoody" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=davenwoody&show_icons=true" width="320" alt="Rahul's github stats"/>
+</a>
+
+#### Top Skills Card
+<a href="https://github.com/davenwoody" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenwoody&layout=compact&hide=html" width="320" alt="Rahul's github top skills"/>
+</a>
