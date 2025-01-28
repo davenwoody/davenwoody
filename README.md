@@ -2,6 +2,7 @@
 <h3 align="center">High School Kids 🌟.</h3>
 
 <br>
+<hr/>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=davenwoody&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true"
     alt="davenwoody" /> 
@@ -18,6 +19,8 @@
 
 - ⚡ Fun fact :- Anime and Music🎵 are the reasons to live.
 
+<hr/>
+
 #### Connect with me:
   <a href="https://discord.com/users/1267021616429268994" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg"
@@ -31,6 +34,8 @@
       <a href="https://github.com/davenwoody" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/github.svg"
       alt="davenwoody" height="30" width="40" /></a>
+
+<hr/>
 
 #### My Language Favorite:
   <a href="" target="blank"><img align="center"
@@ -48,14 +53,20 @@
       alt="nodejs" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg"
       alt="lua" height="40" width="40" /></a>
+
+<hr/>
    
  #### GitHub Stats Card
 
 <a href="https://github.com/davenwoody" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=davenwoody&show_icons=true" width="320" alt="Rahul's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davenwoody&show_icons=true" width="320" alt="davenstats"/>
 </a>
+
+<hr/>
 
 #### Top Skills Card
 <a href="https://github.com/davenwoody" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenwoody&layout=compact&hide=html" width="320" alt="Rahul's github top skills"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenwoody&layout=compact&hide=html" width="320" alt="davenstats"/>
 </a>
+
+<hr/>
