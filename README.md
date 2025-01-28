@@ -4,13 +4,13 @@
 <br>
 <hr/>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=davenwoody&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true"
+<p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=davenwoody&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true"
     alt="davenwoody" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://raw.githubusercontent.com/davenwoody/image-assets/refs/heads/main/coding-person.gif" alt="davenwoody" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/davenwoody/image-assets/refs/heads/main/coding-person.gif" alt="davenwoody" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
