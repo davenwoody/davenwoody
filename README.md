@@ -31,3 +31,26 @@
   <a href="https://youtube.com/@davenwoodys" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/youtube.svg"
       alt="davenwoodys" height="30" width="40" /></a>
+      
+   </p>
+      
+<br>
+
+<h3 align="left">My Language Favorite:</h3>
+<p align="left">
+  <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
+      alt="python" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg"
+      alt="css3" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg"
+      alt="html5" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg"
+      alt="discordjs" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg"
+      alt="php" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg"
+      alt="nodejs" height="40" width="40" /></a> <a href="" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg"
+      alt="lua" height="40" width="40" /></a>
+   </p>
