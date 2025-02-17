@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daven Woody</h1>
-<h3 align="center">High School Kids 🌟.</h3>
+<h3 align="center">High School Kids Developer🌟.</h3>
 
 <br>
 <hr/>
